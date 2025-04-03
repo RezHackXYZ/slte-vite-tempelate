@@ -18,4 +18,10 @@ and stop at the lesson => `Basic Svelte/Logic/Each blocks`
 till then you should know enogh to get started
 
 ## To get started
+ 
+```
+npm i && npm run dev
+```
+
+## Edit `app.svelte`
 
